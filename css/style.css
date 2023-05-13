@@ -1,0 +1,28 @@
+body {
+  background-color: #fff;
+  font-family: Arial, Helvetica, sans-serif ;
+  margin: 2em;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+header > img {
+  display: block;
+  margin-right: auto;
+  width: 8em;
+}
+
+footer {
+  display: flex;
+}
+
+footer img {
+  margin-right: auto;
+  width: 4em;
+}
